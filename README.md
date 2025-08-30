@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="left">👋 Olá Senhor(a) Tudo bem com você? 👋</h1>
 
-<!--
-**7JPRBM7/7JPRBM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Me chamo João, venho do Brasil e tenho interesse em programar! Atualmente busco aprimorar meu conhecimento sobre tecnologia em cada área dela, de pouquinho a pouquinho. Meu foco principal é Desenvolvimento de Jogos e WebDesing. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<p align="left">✨ Criando códigos desde 2024.<br>📚 Estudando sobre Front/Back-End. <br>🎯 Objetivo: Me tornar um GameDeveloper.<br></p>
+
+###
+
+<h2 align="left">Estudando sobre:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+</div>
+
+###
